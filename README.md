@@ -3,8 +3,8 @@
 - **Technologies**: Java, Python, Spring Boot, Hadoop, Spark, Kafka, Airflow, AWS, SQL, NoSQL.
 - **Current Focus**: Building scalable and distributed backend systems
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-brightgreen)](https://leetcode.com/abdusoli)
-[![PersonalWebsite](https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome&logoColor=white)](https://abdusoli.com)
+[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/abdusoli)
+[<img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://abdusoli.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abdusoliergashev)
 
 <!--
