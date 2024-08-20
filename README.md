@@ -1,8 +1,6 @@
-## Hi, I'm Abdusoli 👋, Software Engineer with over 5 years of experience in backend development and Big Data technologies.
-
-## About Me
+## Hi, I'm Abdusoli 👋
 - **Experience**: 5+ years in backend development and Big Data.
-- **Technologies**: Java, Python, Spring Boot, Hadoop, Spark, Kafka, Airflow, AWS.
+- **Technologies**: Java, Python, Spring Boot, Hadoop, Spark, Kafka, Airflow, AWS, SQL, NoSQL.
 - **Current Focus**: Building scalable and distributed backend systems
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-brightgreen)](https://leetcode.com/abdusoli)
