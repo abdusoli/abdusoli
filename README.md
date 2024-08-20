@@ -1,6 +1,4 @@
-# Hi, I'm Abdusoli 👋
-
-I'm a Software Engineer with over 5 years of experience in backend development and Big Data technologies.
+## Hi, I'm Abdusoli 👋, Software Engineer with over 5 years of experience in backend development and Big Data technologies.
 
 ## About Me
 - **Experience**: 5+ years in backend development and Big Data.
